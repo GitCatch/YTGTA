@@ -13,3 +13,5 @@ If you are developing a production application, we recommend using TypeScript wi
 
 ![alt text](image-1.png)
 ![alt text](image-2.png)
+<video controls src="App.jsx - YTGTA - Visual Studio Code 2025-06-03 15-18-39.mp4" title="Title"></video>
+<video controls src="Vite + React - Google Chrome 2025-06-03 15-19-17.mp4" title="Title"></video>
