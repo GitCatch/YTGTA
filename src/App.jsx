@@ -242,6 +242,24 @@ useGSAP(() => {
                 <h3 className="text-5xl -mt-[13px] leading-none text-white">Rockstar</h3>
               </div>
             </div>
+
+           <div className="absolute top-10 right-1 w-[300px] rounded-xl shadow-lg z-20 backdrop-blur-sm bg-white/10 p-4 text-white flex flex-col gap-4">
+             <video
+              className="w-full h-[160px] object-cover rounded-lg"
+              src="./GTA.mp4"
+              autoPlay
+              muted
+              loop
+             />
+
+              <div className="text-sm font-[Helvetica_Now_Display] text-white/90">
+                <h3 className="text-lg font-bold mb-1">Vice City Reimagined</h3>
+                <p>
+                  Experience the thrill of the streets with next-gen visuals and a gripping storyline. GTA VI brings a world full of chaos and charisma.
+                </p>
+              </div>
+            </div>
+            
             
             {/*Image Section */}
 
